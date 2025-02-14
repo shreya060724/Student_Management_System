@@ -12,7 +12,15 @@ A **Django-based Student Management System** with **SQL Workbench**, designed to
 ## **Tech Stack**  
 - **Backend:** Django  
 - **Database:** SQL Workbench  
-- **Frontend:** HTML, Bootstrap, JavaScript  
+- **Frontend:** HTML, Bootstrap, JavaScript
+
+ ** Screenshots**![b5de082b-e3d4-4e1f-9a22-ba01e4569715](https://github.com/user-attachments/assets/6c073ff1-6dad-4bfa-a2a0-6458b846e82e)
+
+ ![414005f7-5cf6-4fbb-8636-81d3e2b957cf](https://github.com/user-attachments/assets/0383c8b3-95f3-4a5c-a368-e8d4b9e0a1b7)
+![4f3b3e0e-0b80-4908-b25c-7470159768a5](https://github.com/user-attachments/assets/a0c4a7d0-46a7-4a14-ae6c-ece904150f63)
+
+ ![84e2da5d-67e5-4b96-ae7c-e893df980532](https://github.com/user-attachments/assets/882bac8c-9904-44bd-9128-ffb00f1de0fa)
+
 
 ## **Installation**  
 
